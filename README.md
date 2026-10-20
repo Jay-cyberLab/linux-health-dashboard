@@ -123,7 +123,4 @@ Do not commit private logs, credentials, tokens, or other sensitive information 
 
 ## License
 
-No license has been selected yet. Add a license file before presenting this project as open source.
-
-
-
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

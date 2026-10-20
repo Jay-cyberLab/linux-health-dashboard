@@ -13,6 +13,24 @@ A real-time Linux system monitoring dashboard built with Python, Streamlit, and 
 - **Configurable thresholds** — set CPU, memory, and disk usage warning levels.
 - **Event export** — download filtered event records for further review.
 
+
+## Dashboard Screenshots
+
+### Overview
+![Dashboard Overview](screenshots/overview.png)
+
+### Performance Monitoring
+![Performance Monitoring](screenshots/performance.png)
+
+### Processes and Hardware
+![Processes and Hardware](screenshots/processes-hardware.png)
+
+### Network Security
+![Network Security](screenshots/network-security.png)
+
+### Security Event Logs
+![Security Event Logs](screenshots/security-logs.png)
+
 ## Built With
 
 - Python
@@ -106,3 +124,6 @@ Do not commit private logs, credentials, tokens, or other sensitive information 
 ## License
 
 No license has been selected yet. Add a license file before presenting this project as open source.
+
+
+

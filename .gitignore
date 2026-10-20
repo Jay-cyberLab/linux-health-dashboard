@@ -1,0 +1,32 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+
+# Local security logs and generated data
+logs/
+*.log
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+#Editor and operating sustem files
+.vscode/
+.idea/
+.DS_STORE
+Thumbs.db
+
+#Project backups and intermediate versions
+*.backup
+*.final
+*.before_*
+
